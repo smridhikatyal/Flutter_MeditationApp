@@ -1,18 +1,12 @@
 # Daily Exercises App - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/qQ75cxc5q8o)
-
-**Packages we are using:**
-
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
 **Fonts**
 
 - Cairo [link](https://fonts.google.com/specimen/Cairo)
 
-**UI Credit**
-
-- Design by: Shahidul Islam Shishir [link](https://www.uplabs.com/posts/daily-exercises-app-freebie)
+**UI**
 
 There are two pages, you can call it home page and details or meditation page. On the home page at the top right corner you got a menu button, then a big good morning for you. After that a search bar with a rounded corner, then a list of exercises for you. Lastly, at the bottom you got a Botton navigation bar.
 
